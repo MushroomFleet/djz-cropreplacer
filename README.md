@@ -141,11 +141,11 @@ A dedicated **Windows desktop installer (MSI)** is coming soon — ideal if you 
 If you use this codebase in your research or project, please cite:
 
 ```bibtex
-@software{djz_cropreplacer_dev,
+@software{djz_cropreplacer,
   title = {DJZ CropReplacer: AI-powered region replacement for images},
   author = {[Drift Johnson]},
   year = {2025},
-  url = {https://github.com/MushroomFleet/djz-cropreplacer-dev},
+  url = {https://github.com/MushroomFleet/djz-cropreplacer},
   version = {1.0.0}
 }
 ```
